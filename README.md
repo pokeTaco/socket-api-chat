@@ -1,4 +1,4 @@
-# word-cloud-generator
+# socket-api-chat
 A fully command-line based multi-user chat solution based on the Java Socket API. Network Technologies coding assignment as an SD student at GMIT, handed in in January 2022.
 
 ## MAIN FEATURES
